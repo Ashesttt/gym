@@ -1,0 +1,8 @@
+h1{color: aqua;font-size: 300%; text-align: center;}
+body{background-color: cornflowerblue;}
+h2{color: blueviolet;font-size: 200%;}
+h3{color: deeppink;font-size: 150%;}
+a:link {background-color:#B2FF99;}   
+a:visited {background-color:#FFFF85;} 
+a:hover {background-color:#FF704D; font-size: 100%;} 
+a{font-size: larger;}

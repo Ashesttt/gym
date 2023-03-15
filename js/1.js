@@ -1,0 +1,1 @@
+doucment.write(Date());
